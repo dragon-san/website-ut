@@ -1,0 +1,261 @@
+video {
+    object-fit:fill;
+    width: 100%;
+    height: 110%;
+    position:absolute;
+    z-index: -1;
+  }
+  
+ /* .home-page .top{
+  text-decoration: none;
+  position: fixed;
+  top:10%;
+ height: 80px;
+ width: 80px;
+ background: rgba(128, 128, 128, 0.404);
+ display: flex;
+ align-items: center;
+ text-decoration:none;
+ border-radius: 90%;
+ border: none;
+ color:white;
+ font-size: 20px;
+ box-shadow: none;
+ right:0;
+ bottom:0;
+ outline: none;
+ transform: translate(-50%) rotate(90 deg);
+ } */
+.home-page{
+  display: block;
+  width: 100%;
+
+}
+ .home-page .top{
+display: block;
+position:fixed;
+  top:925PX;
+  right:-20px;
+  transform: translate(-50%) rotate(180deg);
+border-left:none;
+border-right: none;
+height: 50px;
+width: 50px;
+border: none;
+color:white;
+font-size: 50px;
+border-radius: 50%;
+background: rgba(128, 128, 128, 0.205);
+outline: none;
+ }
+
+
+ 
+ .home-page .top:hover{
+
+  transition: all 0.5s ease-out;
+  /* background:linear-gradient(to right , #2d2f8363, #00b5ec52);  */
+  background: rgba(128, 128, 128, 0.356);
+  color:white;
+  transition: 250ms;
+
+ }
+
+ .fa-arrow-alt-to-top{
+  color:grey;
+  size:12px;
+ }
+
+ .landing-container {
+    
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: left;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+  }
+
+
+
+  .logo-img{
+    height: 90px;
+    width: 200px;
+    margin-top: -165px;
+    margin-left: 150px;
+    padding-top: 12em;
+  }
+
+
+.landing-container > p1 {
+  margin-top: 30px;
+  margin-left: 140px;
+  color: white;
+  font-size: 80px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  
+}
+
+.landing-container > p {
+  margin-top: 10px;
+  margin-left:150px;
+  color:whitesmoke;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+
+}
+
+
+.landing-container > p2 {
+  margin-top: -300px;
+  margin-left: 150px;
+  color: white;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 200;
+  
+}
+
+.landing-container > p4 {
+  margin-top: 0px;
+  margin-left: 150px;
+  color:whitesmoke;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+
+}
+
+.landing-btns {
+    margin-top: 0px;
+    margin-left: 150px;
+    width: 1d00px;
+    background-color:transparent
+  
+  }
+
+.intro1{
+    height: 100px;
+    margin-top: 50px;
+    margin-left: 50px;
+    
+} 
+
+
+/* For 15inch screen*/
+/*   
+ @media screen and (max-width: 960px) and (min-width: 600px) {
+
+  .wholepage{
+
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }  
+    
+    .landing-container {
+      
+      height: 100vh;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: left;
+      box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+      object-fit: contain;
+    }
+  
+  
+  
+    .logo-img{
+      height: 320px;
+      width: 280px;
+      margin-top: -250px;
+      margin-left: 250px;
+      padding-top: 12em;
+    }
+  
+  
+  .landing-container > p1 {
+    margin-top: 40px;
+    margin-left: 240px;
+    color: white;
+    font-size: 95px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    
+  }
+  
+  .landing-container > p {
+    margin-top: -112px;
+    margin-left: 615px;
+    color:yellow;
+    font-size: 95px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+  
+  }
+  
+  .landing-container > p2 {
+    margin-top: -10px;
+    margin-left: 240px;
+    color: white;
+    font-size: 95px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    
+  }
+  
+  .landing-container > p4 {
+    margin-top: -25px;
+    margin-left: 240px;
+    color:yellow;
+    font-size: 95px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+  
+  }
+  
+  .landing-btns {
+      margin-top: 0px;
+      margin-left: 250px;
+      width: 290px;
+      background-color:transparent
+    
+    }
+  
+  .intro1{
+      height: 100px;
+      margin-top: 50px;
+      margin-left: 50px;
+      
+  }
+  
+
+} */
+
+
+  
+   
+
+
+
+
+   /* For Mobile */
+@media screen and (max-width: 540px) {
+  .view {
+      width: 400px;
+  }
+}
+
+/* For Tablets */
+@media screen and (min-width: 540px) and (max-width: 780px) {
+  .view {
+      width: 600px;
+  }
+}

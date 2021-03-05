@@ -1,0 +1,247 @@
+.products-container  {
+   display: block;
+   position: relative;
+  margin-top:-85px;
+  margin-left:-10px;
+height: 500px;
+  padding: 5px;
+  width: 112%;
+}
+ 
+.text-block2 {
+   position: absolute;
+   top: 280px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block2 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+
+  .text-block3 {
+   position: absolute;
+   top: 900px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block3 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+  .text-block4 {
+   position: absolute;
+   top: 1450px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block4 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+  .text-block5 {
+   position: absolute;
+   top: 1950px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block5 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+
+
+  .text-block6 {
+   position: absolute;
+   top: 2550px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block6 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+  .text-block7 {
+   position: absolute;
+   top: 3100px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block7 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+  .text-block8 {
+   position: absolute;
+   top: 3650px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block8 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+  .text-block9 {
+   position: absolute;
+   top: 4150px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block9 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+  .text-block10 {
+   position: absolute;
+   top: 4650px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block10 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+  .text-block11 {
+   position: absolute;
+   top: 5650px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block11 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+  .text-block0 {
+   position: absolute;
+   top: 5150px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block0> p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+  .text-block12 {
+   position: absolute;
+   top: 6100px;
+   left: 50px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:70px;
+   font-family:'Raleway', sans-serif;
+  }
+  .text-block12 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
+
+
+  .text-block13 {
+   position: absolute;
+   top: 7150px;
+   left: 300px;
+   background-color: rgba(24, 21, 21, 0.233);
+   color:rgba(255, 230, 0, 0.89);
+   padding-left: 20px;
+   padding-right: 20px;
+   font-size:60px;
+   font-family:'Raleway', sans-serif;
+   font-weight: lighter;
+  }
+  .text-block13 > p{
+   color:whitesmoke;
+   font-size:37px;
+   font-family:'Raleway', sans-serif;
+  
+  }
